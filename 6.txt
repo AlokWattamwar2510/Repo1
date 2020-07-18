@@ -1,0 +1,8 @@
+This is 6.txt
+:qw
+exit
+exit:
+exit;
+quit
+quit:
+quit:
